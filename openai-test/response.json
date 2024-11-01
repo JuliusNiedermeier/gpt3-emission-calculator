@@ -1,0 +1,1 @@
+{"id":"cmpl-6oEMhMfJwrv73b1Zm3dpnk5bqd1qu","object":"text_completion","created":1677429639,"model":"text-davinci-003","choices":[{"text":"\n\n{\n  \"Carbon dioxide\": 0.2,\n  \"Methane\": 0.0003,\n  \"Nitrous oxide\": 0.005\n}","index":0,"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":56,"completion_tokens":38,"total_tokens":94}}
